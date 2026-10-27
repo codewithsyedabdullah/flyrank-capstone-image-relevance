@@ -1,0 +1,23 @@
+# never commit secrets or heavy/generated artifacts
+node_modules/
+.env
+.env.*
+!.env.example
+
+# generated at runtime / seed time (reproduced via scripts)
+images/
+db/
+*.sqlite
+*.sqlite-*
+
+# logs
+*.log
+logs/
+
+# os
+.DS_Store
+Thumbs.db
+
+# keep data/ (manifest, vision fixtures, committed vectors) TRACKED — only ignore sqlite if ever placed there
+data/*.sqlite
+data/*.sqlite-*

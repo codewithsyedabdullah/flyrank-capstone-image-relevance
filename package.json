@@ -1,0 +1,27 @@
+{
+  "name": "flyrank-capstone-image-relevance",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FlyRank Backend AI Engineering capstone — AI Image Understanding & Content Matching Engine: vision tagging, semantic matching, and a mismatch guard.",
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "migrate": "node src/db/migrate.js",
+    "seed": "node scripts/seed.js",
+    "fetch-corpus": "node scripts/fetch-corpus.js",
+    "fixtures": "node scripts/generate-vision-fixtures.js",
+    "tag": "node scripts/run-tag-job.js",
+    "embed": "node scripts/run-embed-job.js",
+    "eval": "node scripts/eval.js",
+    "test": "node --test tests/"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "zod": "^3.23.8"
+  }
+}
