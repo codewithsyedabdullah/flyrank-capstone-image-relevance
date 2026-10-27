@@ -1,0 +1,24 @@
+{
+  "subject": "canid (species uncertain)",
+  "category": "animal",
+  "attributes": [
+    "wild",
+    "canid",
+    "species uncertain"
+  ],
+  "caption": "A wild canid of genus Canis photographed in its natural range; community identification stops at genus level (wolf, dog, or coyote cannot be separated from this photo).",
+  "confidence": 0.54,
+  "_meta": {
+    "provider": "fixture",
+    "derivedFrom": "inaturalist-research-grade-metadata",
+    "sourceTitle": "Canis — needs_id observation 411115881",
+    "sourceUrl": "https://www.inaturalist.org/observations/411115881",
+    "license": "CC BY-NC 4.0",
+    "attribution": "(c) waritsara_hoonsuwan, some rights reserved (CC BY-NC)",
+    "taxonName": "Canis",
+    "taxonRank": "genus",
+    "ambiguous": true,
+    "derivationRule": "subject/category/attributes/caption derived from iNaturalist research-grade taxon + attribution metadata; confidence: 0.38-0.55 if community ID is genus-level (genuinely ambiguous photo), 0.55-0.67 if the downloaded photo is small (<250KB, likely low resolution), 0.90-0.98 for species-level research-grade photos with metadata.",
+    "generatedAt": "2026-10-27T18:08:34.892Z"
+  }
+}

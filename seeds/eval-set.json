@@ -1,0 +1,92 @@
+[
+  {
+    "postId": "p-fox-1",
+    "correctImageId": "img-red_fox-00",
+    "expectedSpecies": "red fox",
+    "note": "labeled correct image for \"The red fox at dusk\""
+  },
+  {
+    "postId": "p-fox-2",
+    "correctImageId": "img-red_fox-03",
+    "expectedSpecies": "red fox",
+    "note": "labeled correct image for \"Vulpes vulpes, up close\""
+  },
+  {
+    "postId": "p-fox-3",
+    "correctImageId": "img-red_fox-06",
+    "expectedSpecies": "red fox",
+    "note": "labeled correct image for \"Foxes in the city\""
+  },
+  {
+    "postId": "p-wolf-1",
+    "correctImageId": "img-wolf-00",
+    "expectedSpecies": "gray wolf",
+    "note": "labeled correct image for \"Gray wolf packs\""
+  },
+  {
+    "postId": "p-wolf-2",
+    "correctImageId": "img-wolf-03",
+    "expectedSpecies": "gray wolf",
+    "note": "labeled correct image for \"Wolves of Yellowstone\""
+  },
+  {
+    "postId": "p-wolf-3",
+    "correctImageId": "img-wolf-06",
+    "expectedSpecies": "gray wolf",
+    "note": "labeled correct image for \"Wolf or dog?\""
+  },
+  {
+    "postId": "p-dog-1",
+    "correctImageId": "img-dog-00",
+    "expectedSpecies": "dog",
+    "note": "labeled correct image for \"Man's best friend\""
+  },
+  {
+    "postId": "p-dog-2",
+    "correctImageId": "img-dog-03",
+    "expectedSpecies": "dog",
+    "note": "labeled correct image for \"Puppy development\""
+  },
+  {
+    "postId": "p-dog-3",
+    "correctImageId": "img-dog-06",
+    "expectedSpecies": "dog",
+    "note": "labeled correct image for \"Working dogs\""
+  },
+  {
+    "postId": "p-bear-1",
+    "correctImageId": "img-bear-00",
+    "expectedSpecies": "bear",
+    "note": "labeled correct image for \"Bears and hibernation\""
+  },
+  {
+    "postId": "p-bear-2",
+    "correctImageId": "img-bear-03",
+    "expectedSpecies": "bear",
+    "note": "labeled correct image for \"The brown bear's diet\""
+  },
+  {
+    "postId": "p-bear-3",
+    "correctImageId": "img-bear-06",
+    "expectedSpecies": "bear",
+    "note": "labeled correct image for \"Bears in folklore\""
+  },
+  {
+    "postId": "p-deer-1",
+    "correctImageId": "img-deer-00",
+    "expectedSpecies": "deer",
+    "note": "labeled correct image for \"Deer and their antlers\""
+  },
+  {
+    "postId": "p-deer-2",
+    "correctImageId": "img-deer-03",
+    "expectedSpecies": "deer",
+    "note": "labeled correct image for \"Graceful deer of the forest\""
+  },
+  {
+    "postId": "p-deer-3",
+    "correctImageId": "img-deer-06",
+    "expectedSpecies": "deer",
+    "note": "labeled correct image for \"Cervidae around the world\""
+  }
+]

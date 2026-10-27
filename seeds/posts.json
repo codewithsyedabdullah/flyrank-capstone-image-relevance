@@ -1,0 +1,107 @@
+[
+  {
+    "id": "p-fox-1",
+    "title": "The red fox at dusk",
+    "body": "The red fox is a master of twilight hunting. With sharp hearing and pouncing leaps, a red fox can catch mice under deep snow. Its bushy tail balances each jump.",
+    "categoryHint": "animal",
+    "speciesHint": "red fox"
+  },
+  {
+    "id": "p-fox-2",
+    "title": "Vulpes vulpes, up close",
+    "body": "Vulpes vulpes is the largest species of the genus Vulpes. Found across the Northern Hemisphere, this wild fox species adapts from forests to farmland.",
+    "categoryHint": "animal",
+    "speciesHint": "red fox"
+  },
+  {
+    "id": "p-fox-3",
+    "title": "Foxes in the city",
+    "body": "Urban foxes roam our suburbs at night. A wild red fox learns traffic patterns, raids bins, and raises cubs in quiet gardens.",
+    "categoryHint": "animal",
+    "speciesHint": "red fox"
+  },
+  {
+    "id": "p-wolf-1",
+    "title": "Gray wolf packs",
+    "body": "The gray wolf, Canis lupus, lives in family packs led by an alpha pair. Howling binds the pack across miles of wilderness.",
+    "categoryHint": "animal",
+    "speciesHint": "gray wolf"
+  },
+  {
+    "id": "p-wolf-2",
+    "title": "Wolves of Yellowstone",
+    "body": "When wolves returned to Yellowstone, elk behavior changed, riverside willows recovered, and the whole ecosystem shifted. The grey wolf is a keystone predator.",
+    "categoryHint": "animal",
+    "speciesHint": "gray wolf"
+  },
+  {
+    "id": "p-wolf-3",
+    "title": "Wolf or dog?",
+    "body": "Wolves and dogs share an ancestor, but a wild wolf hunts cooperatively and avoids human contact. A wolf's paws are larger than a dog's.",
+    "categoryHint": "animal",
+    "speciesHint": "gray wolf"
+  },
+  {
+    "id": "p-dog-1",
+    "title": "Man's best friend",
+    "body": "The domestic dog has lived beside humans for thousands of years. From herding to companionship, dogs read human gestures better than any other animal.",
+    "categoryHint": "animal",
+    "speciesHint": "dog"
+  },
+  {
+    "id": "p-dog-2",
+    "title": "Puppy development",
+    "body": "A puppy opens its eyes around two weeks old. Early socialization shapes a calm adult dog, and play builds coordination.",
+    "categoryHint": "animal",
+    "speciesHint": "dog"
+  },
+  {
+    "id": "p-dog-3",
+    "title": "Working dogs",
+    "body": "Border collies herd sheep, labradors retrieve, and huskies pull sleds. Working dog breeds thrive with a job to do.",
+    "categoryHint": "animal",
+    "speciesHint": "dog"
+  },
+  {
+    "id": "p-bear-1",
+    "title": "Bears and hibernation",
+    "body": "In winter, a bear settles into its den. Heart rate drops, and the mother bear gives birth while sleeping through the cold months.",
+    "categoryHint": "animal",
+    "speciesHint": "bear"
+  },
+  {
+    "id": "p-bear-2",
+    "title": "The brown bear's diet",
+    "body": "A brown bear eats berries, roots, salmon, and insects. Before winter, an adult bear may gain thousands of calories a day.",
+    "categoryHint": "animal",
+    "speciesHint": "bear"
+  },
+  {
+    "id": "p-bear-3",
+    "title": "Bears in folklore",
+    "body": "From forest spirits to storybook characters, the bear looms large in human folklore, and bear cubs playing in the woods remain a beloved image.",
+    "categoryHint": "animal",
+    "speciesHint": "bear"
+  },
+  {
+    "id": "p-deer-1",
+    "title": "Deer and their antlers",
+    "body": "Male deer grow antlers each spring and shed them in winter. During the rut, stags clash in the forest.",
+    "categoryHint": "animal",
+    "speciesHint": "deer"
+  },
+  {
+    "id": "p-deer-2",
+    "title": "Graceful deer of the forest",
+    "body": "A deer freezes at the sound of a twig. Its ears swivel toward every rustle before it bounds away.",
+    "categoryHint": "animal",
+    "speciesHint": "deer"
+  },
+  {
+    "id": "p-deer-3",
+    "title": "Cervidae around the world",
+    "body": "The family Cervidae spans red deer, elk, and tiny muntjacs. Deer inhabit forests, grasslands, and mountains.",
+    "categoryHint": "animal",
+    "speciesHint": "deer"
+  }
+]

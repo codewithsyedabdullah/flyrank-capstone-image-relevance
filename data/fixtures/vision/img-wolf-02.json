@@ -1,0 +1,25 @@
+{
+  "subject": "gray wolf",
+  "category": "animal",
+  "attributes": [
+    "gray fur",
+    "wild",
+    "pack animal",
+    "gray"
+  ],
+  "caption": "A gray wolf (Canis lupus) photographed in the wild.",
+  "confidence": 0.94,
+  "_meta": {
+    "provider": "fixture",
+    "derivedFrom": "inaturalist-research-grade-metadata",
+    "sourceTitle": "Canis lupus — research-grade observation 411162513",
+    "sourceUrl": "https://www.inaturalist.org/observations/411162513",
+    "license": "CC BY-NC 4.0",
+    "attribution": "(c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC)",
+    "taxonName": "Canis lupus",
+    "taxonRank": "species",
+    "ambiguous": false,
+    "derivationRule": "subject/category/attributes/caption derived from iNaturalist research-grade taxon + attribution metadata; confidence: 0.38-0.55 if community ID is genus-level (genuinely ambiguous photo), 0.55-0.67 if the downloaded photo is small (<250KB, likely low resolution), 0.90-0.98 for species-level research-grade photos with metadata.",
+    "generatedAt": "2026-10-27T18:08:34.989Z"
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "img-ambiguous_canid-00": {
+    "file": "data/fixtures/vision/img-ambiguous_canid-00.json",
+    "confidence": 0.53,
+    "subject": "canid (species uncertain)",
+    "flagged": true
+  },
+  "img-ambiguous_canid-01": {
+    "file": "data/fixtures/vision/img-ambiguous_canid-01.json",
+    "confidence": 0.51,
+    "subject": "canid (species uncertain)",
+    "flagged": true
+  },
+  "img-ambiguous_canid-02": {
+    "file": "data/fixtures/vision/img-ambiguous_canid-02.json",
+    "confidence": 0.54,
+    "subject": "canid (species uncertain)",
+    "flagged": true
+  },
+  "img-ambiguous_canid-03": {
+    "file": "data/fixtures/vision/img-ambiguous_canid-03.json",
+    "confidence": 0.45,
+    "subject": "canid (species uncertain)",
+    "flagged": true
+  },
+  "img-ambiguous_canid-04": {
+    "file": "data/fixtures/vision/img-ambiguous_canid-04.json",
+    "confidence": 0.44,
+    "subject": "canid (species uncertain)",
+    "flagged": true
+  },
+  "img-ambiguous_canid-05": {
+    "file": "data/fixtures/vision/img-ambiguous_canid-05.json",
+    "confidence": 0.55,
+    "subject": "canid (species uncertain)",
+    "flagged": true
+  },
+  "img-bear-00": {
+    "file": "data/fixtures/vision/img-bear-00.json",
+    "confidence": 0.93,
+    "subject": "bear",
+    "flagged": false
+  },
+  "img-bear-01": {
+    "file": "data/fixtures/vision/img-bear-01.json",
+    "confidence": 0.93,
+    "subject": "bear",
+    "flagged": false
+  },
+  "img-bear-02": {
+    "file": "data/fixtures/vision/img-bear-02.json",
+    "confidence": 0.91,
+    "subject": "bear",
+    "flagged": false
+  },
+  "img-bear-03": {
+    "file": "data/fixtures/vision/img-bear-03.json",
+    "confidence": 0.96,
+    "subject": "bear",
+    "flagged": false
+  },
+  "img-bear-04": {
+    "file": "data/fixtures/vision/img-bear-04.json",
+    "confidence": 0.91,
+    "subject": "bear",
+    "flagged": false
+  },
+  "img-bear-05": {
+    "file": "data/fixtures/vision/img-bear-05.json",
+    "confidence": 0.94,
+    "subject": "bear",
+    "flagged": false
+  },
+  "img-bear-06": {
+    "file": "data/fixtures/vision/img-bear-06.json",
+    "confidence": 0.92,
+    "subject": "bear",
+    "flagged": false
+  },
+  "img-bear-07": {
+    "file": "data/fixtures/vision/img-bear-07.json",
+    "confidence": 0.93,
+    "subject": "bear",
+    "flagged": false
+  },
+  "img-bear-08": {
+    "file": "data/fixtures/vision/img-bear-08.json",
+    "confidence": 0.92,
+    "subject": "bear",
+    "flagged": false
+  },
+  "img-bear-09": {
+    "file": "data/fixtures/vision/img-bear-09.json",
+    "confidence": 0.91,
+    "subject": "bear",
+    "flagged": false
+  },
+  "img-deer-00": {
+    "file": "data/fixtures/vision/img-deer-00.json",
+    "confidence": 0.98,
+    "subject": "deer",
+    "flagged": false
+  },
+  "img-deer-01": {
+    "file": "data/fixtures/vision/img-deer-01.json",
+    "confidence": 0.91,
+    "subject": "deer",
+    "flagged": false
+  },
+  "img-deer-02": {
+    "file": "data/fixtures/vision/img-deer-02.json",
+    "confidence": 0.91,
+    "subject": "deer",
+    "flagged": false
+  },
+  "img-deer-03": {
+    "file": "data/fixtures/vision/img-deer-03.json",
+    "confidence": 0.91,
+    "subject": "deer",
+    "flagged": false
+  },
+  "img-deer-04": {
+    "file": "data/fixtures/vision/img-deer-04.json",
+    "confidence": 0.64,
+    "subject": "deer",
+    "flagged": false
+  },
+  "img-deer-05": {
+    "file": "data/fixtures/vision/img-deer-05.json",
+    "confidence": 0.93,
+    "subject": "deer",
+    "flagged": false
+  },
+  "img-deer-06": {
+    "file": "data/fixtures/vision/img-deer-06.json",
+    "confidence": 0.93,
+    "subject": "deer",
+    "flagged": false
+  },
+  "img-deer-07": {
+    "file": "data/fixtures/vision/img-deer-07.json",
+    "confidence": 0.95,
+    "subject": "deer",
+    "flagged": false
+  },
+  "img-deer-08": {
+    "file": "data/fixtures/vision/img-deer-08.json",
+    "confidence": 0.94,
+    "subject": "deer",
+    "flagged": false
+  },
+  "img-deer-09": {
+    "file": "data/fixtures/vision/img-deer-09.json",
+    "confidence": 0.9,
+    "subject": "deer",
+    "flagged": false
+  },
+  "img-dog-00": {
+    "file": "data/fixtures/vision/img-dog-00.json",
+    "confidence": 0.97,
+    "subject": "dog",
+    "flagged": false
+  },
+  "img-dog-01": {
+    "file": "data/fixtures/vision/img-dog-01.json",
+    "confidence": 0.94,
+    "subject": "dog",
+    "flagged": false
+  },
+  "img-dog-02": {
+    "file": "data/fixtures/vision/img-dog-02.json",
+    "confidence": 0.94,
+    "subject": "dog",
+    "flagged": false
+  },
+  "img-dog-03": {
+    "file": "data/fixtures/vision/img-dog-03.json",
+    "confidence": 0.93,
+    "subject": "dog",
+    "flagged": false
+  },
+  "img-dog-04": {
+    "file": "data/fixtures/vision/img-dog-04.json",
+    "confidence": 0.94,
+    "subject": "dog",
+    "flagged": false
+  },
+  "img-dog-05": {
+    "file": "data/fixtures/vision/img-dog-05.json",
+    "confidence": 0.93,
+    "subject": "dog",
+    "flagged": false
+  },
+  "img-dog-06": {
+    "file": "data/fixtures/vision/img-dog-06.json",
+    "confidence": 0.98,
+    "subject": "dog",
+    "flagged": false
+  },
+  "img-dog-07": {
+    "file": "data/fixtures/vision/img-dog-07.json",
+    "confidence": 0.92,
+    "subject": "dog",
+    "flagged": false
+  },
+  "img-dog-08": {
+    "file": "data/fixtures/vision/img-dog-08.json",
+    "confidence": 0.95,
+    "subject": "dog",
+    "flagged": false
+  },
+  "img-dog-09": {
+    "file": "data/fixtures/vision/img-dog-09.json",
+    "confidence": 0.93,
+    "subject": "dog",
+    "flagged": false
+  },
+  "img-red_fox-00": {
+    "file": "data/fixtures/vision/img-red_fox-00.json",
+    "confidence": 0.96,
+    "subject": "red fox",
+    "flagged": false
+  },
+  "img-red_fox-01": {
+    "file": "data/fixtures/vision/img-red_fox-01.json",
+    "confidence": 0.94,
+    "subject": "red fox",
+    "flagged": false
+  },
+  "img-red_fox-02": {
+    "file": "data/fixtures/vision/img-red_fox-02.json",
+    "confidence": 0.98,
+    "subject": "red fox",
+    "flagged": false
+  },
+  "img-red_fox-03": {
+    "file": "data/fixtures/vision/img-red_fox-03.json",
+    "confidence": 0.65,
+    "subject": "red fox",
+    "flagged": false
+  },
+  "img-red_fox-04": {
+    "file": "data/fixtures/vision/img-red_fox-04.json",
+    "confidence": 0.63,
+    "subject": "red fox",
+    "flagged": false
+  },
+  "img-red_fox-05": {
+    "file": "data/fixtures/vision/img-red_fox-05.json",
+    "confidence": 0.97,
+    "subject": "red fox",
+    "flagged": false
+  },
+  "img-red_fox-06": {
+    "file": "data/fixtures/vision/img-red_fox-06.json",
+    "confidence": 0.94,
+    "subject": "red fox",
+    "flagged": false
+  },
+  "img-red_fox-07": {
+    "file": "data/fixtures/vision/img-red_fox-07.json",
+    "confidence": 0.93,
+    "subject": "red fox",
+    "flagged": false
+  },
+  "img-red_fox-08": {
+    "file": "data/fixtures/vision/img-red_fox-08.json",
+    "confidence": 0.65,
+    "subject": "red fox",
+    "flagged": false
+  },
+  "img-red_fox-09": {
+    "file": "data/fixtures/vision/img-red_fox-09.json",
+    "confidence": 0.93,
+    "subject": "red fox",
+    "flagged": false
+  },
+  "img-wolf-00": {
+    "file": "data/fixtures/vision/img-wolf-00.json",
+    "confidence": 0.97,
+    "subject": "gray wolf",
+    "flagged": false
+  },
+  "img-wolf-01": {
+    "file": "data/fixtures/vision/img-wolf-01.json",
+    "confidence": 0.92,
+    "subject": "gray wolf",
+    "flagged": false
+  },
+  "img-wolf-02": {
+    "file": "data/fixtures/vision/img-wolf-02.json",
+    "confidence": 0.94,
+    "subject": "gray wolf",
+    "flagged": false
+  },
+  "img-wolf-03": {
+    "file": "data/fixtures/vision/img-wolf-03.json",
+    "confidence": 0.95,
+    "subject": "gray wolf",
+    "flagged": false
+  },
+  "img-wolf-04": {
+    "file": "data/fixtures/vision/img-wolf-04.json",
+    "confidence": 0.97,
+    "subject": "gray wolf",
+    "flagged": false
+  },
+  "img-wolf-05": {
+    "file": "data/fixtures/vision/img-wolf-05.json",
+    "confidence": 0.93,
+    "subject": "gray wolf",
+    "flagged": false
+  },
+  "img-wolf-06": {
+    "file": "data/fixtures/vision/img-wolf-06.json",
+    "confidence": 0.98,
+    "subject": "gray wolf",
+    "flagged": false
+  },
+  "img-wolf-07": {
+    "file": "data/fixtures/vision/img-wolf-07.json",
+    "confidence": 0.95,
+    "subject": "gray wolf",
+    "flagged": false
+  },
+  "img-wolf-08": {
+    "file": "data/fixtures/vision/img-wolf-08.json",
+    "confidence": 0.93,
+    "subject": "gray wolf",
+    "flagged": false
+  },
+  "img-wolf-09": {
+    "file": "data/fixtures/vision/img-wolf-09.json",
+    "confidence": 0.93,
+    "subject": "gray wolf",
+    "flagged": false
+  }
+}

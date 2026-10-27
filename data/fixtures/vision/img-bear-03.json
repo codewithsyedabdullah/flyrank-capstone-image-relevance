@@ -1,0 +1,25 @@
+{
+  "subject": "bear",
+  "category": "animal",
+  "attributes": [
+    "large",
+    "wild",
+    "omnivore",
+    "brown"
+  ],
+  "caption": "A bear (Ursus arctos) photographed in the wild.",
+  "confidence": 0.96,
+  "_meta": {
+    "provider": "fixture",
+    "derivedFrom": "inaturalist-research-grade-metadata",
+    "sourceTitle": "Ursus arctos — research-grade observation 410973647",
+    "sourceUrl": "https://www.inaturalist.org/observations/410973647",
+    "license": "CC BY-NC 4.0",
+    "attribution": "(c) vivekaocherik, some rights reserved (CC BY-NC)",
+    "taxonName": "Ursus arctos",
+    "taxonRank": "species",
+    "ambiguous": false,
+    "derivationRule": "subject/category/attributes/caption derived from iNaturalist research-grade taxon + attribution metadata; confidence: 0.38-0.55 if community ID is genus-level (genuinely ambiguous photo), 0.55-0.67 if the downloaded photo is small (<250KB, likely low resolution), 0.90-0.98 for species-level research-grade photos with metadata.",
+    "generatedAt": "2026-10-27T18:08:34.909Z"
+  }
+}
