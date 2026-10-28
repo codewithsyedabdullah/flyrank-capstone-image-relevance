@@ -1,0 +1,68 @@
+name: flyrank-capstone-image-relevance
+description: >-
+  FlyRank Backend AI Engineering capstone (Week 8) — AI Image Understanding &
+  Content Matching Engine. Schema-validated vision tagging of a 56-image corpus,
+  committed all-MiniLM embeddings, semantic post→image ranking, and a four-rule
+  mismatch guard that refuses with a human-readable explanation instead of
+  guessing. Labeled eval set: top-1 precision 15/15 = 1.000.
+stack: nodejs
+license: MIT
+run: npm start
+seed: npm run bootstrap
+test: npm test
+base_url: http://localhost:4317
+endpoints:
+  - method: GET
+    path: /api/health
+    purpose: liveness + corpus counts + active providers + thresholds
+  - method: GET
+    path: /api/images
+    purpose: image admin table (?status=tagged&flagged=1&limit=)
+  - method: GET
+    path: /api/images/{id}
+    purpose: one image — validated metadata, tags, embedding identity
+  - method: POST
+    path: /api/images/{id}/tag
+    purpose: (re)tag one image synchronously (?force=true to re-tag)
+  - method: GET
+    path: /api/posts
+    purpose: list seeded posts
+  - method: GET
+    path: /api/posts/{id}
+    purpose: one post
+  - method: GET
+    path: /api/posts/{id}/images
+    purpose: ranked, guard-judged image suggestions (?top=5&force_image=img-wolf-00) — probes 2/3/4
+  - method: GET
+    path: /api/posts/{id}/suggestions
+    purpose: persisted suggestions for a post (verdicts + reasons)
+  - method: GET
+    path: /api/suggestions/{id}/why
+    purpose: inspect why an image was selected or refused (full 4-rule guard trace)
+  - method: POST
+    path: /api/suggestions/{id}/approve
+    purpose: review — approve a suggestion {reviewer}
+  - method: POST
+    path: /api/suggestions/{id}/reject
+    purpose: review — reject a suggestion {reviewer, reason}
+  - method: POST
+    path: /api/jobs/tag
+    purpose: start/return the vision batch job (202; deduped; idempotent)
+  - method: POST
+    path: /api/jobs/embed
+    purpose: start/return the embedding batch job (202; deduped)
+  - method: GET
+    path: /api/jobs
+    purpose: job list (?type=tag&limit=)
+  - method: GET
+    path: /api/jobs/{id}
+    purpose: job detail incl. every retry attempt
+  - method: GET
+    path: /api/costs
+    purpose: per-call cost log + budget guard status — probe 6
+  - method: GET
+    path: /api/eval
+    purpose: latest labeled-eval run (top-1 precision) + history — probe 5
+  - method: GET
+    path: /api/alerts
+    purpose: failure alerts (partial_failure, budget_exceeded, job_crash)
