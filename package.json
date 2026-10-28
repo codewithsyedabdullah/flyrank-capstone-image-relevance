@@ -11,14 +11,18 @@
   "scripts": {
     "start": "node src/server.js",
     "dev": "node --watch src/server.js",
+    "bootstrap": "node scripts/bootstrap.js",
     "migrate": "node src/db/migrate.js",
     "seed": "node scripts/seed.js",
     "fetch-corpus": "node scripts/fetch-corpus.js",
+    "enrich": "node scripts/enrich-corpus.js",
     "fixtures": "node scripts/generate-vision-fixtures.js",
+    "eval-set": "node scripts/generate-eval-set.js",
+    "vectors": "node scripts/generate-vectors.js",
     "tag": "node scripts/run-tag-job.js",
     "embed": "node scripts/run-embed-job.js",
     "eval": "node scripts/eval.js",
-    "test": "node --test tests/"
+    "test": "node --test tests/*.test.js"
   },
   "dependencies": {
     "express": "^5.1.0",

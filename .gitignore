@@ -6,7 +6,7 @@ node_modules/
 
 # generated at runtime / seed time (reproduced via scripts)
 images/
-db/
+/db/
 *.sqlite
 *.sqlite-*
 
