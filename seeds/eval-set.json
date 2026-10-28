@@ -1,92 +1,92 @@
 [
   {
     "postId": "p-fox-1",
-    "correctImageId": "img-red_fox-00",
+    "correctImageId": "img-red_fox-07",
     "expectedSpecies": "red fox",
-    "note": "labeled correct image for \"The red fox at dusk\""
+    "note": "post describes iNaturalist observation 411156165 (Pinehurst Dr, Wilmington, DE, US); labeled correct image: img-red_fox-07"
   },
   {
     "postId": "p-fox-2",
-    "correctImageId": "img-red_fox-03",
+    "correctImageId": "img-red_fox-09",
     "expectedSpecies": "red fox",
-    "note": "labeled correct image for \"Vulpes vulpes, up close\""
+    "note": "post describes iNaturalist observation 411154077 (Кирилловский р-н, Вологодская обл., Россия); labeled correct image: img-red_fox-09"
   },
   {
     "postId": "p-fox-3",
-    "correctImageId": "img-red_fox-06",
+    "correctImageId": "img-red_fox-00",
     "expectedSpecies": "red fox",
-    "note": "labeled correct image for \"Foxes in the city\""
+    "note": "post describes iNaturalist observation 411190259 (Wellington Township, OH 44090, USA); labeled correct image: img-red_fox-00"
   },
   {
     "postId": "p-wolf-1",
-    "correctImageId": "img-wolf-00",
+    "correctImageId": "img-wolf-04",
     "expectedSpecies": "gray wolf",
-    "note": "labeled correct image for \"Gray wolf packs\""
+    "note": "post describes iNaturalist observation 411003709 (Konya, TR); labeled correct image: img-wolf-04"
   },
   {
     "postId": "p-wolf-2",
-    "correctImageId": "img-wolf-03",
+    "correctImageId": "img-wolf-00",
     "expectedSpecies": "gray wolf",
-    "note": "labeled correct image for \"Wolves of Yellowstone\""
+    "note": "post describes iNaturalist observation 411165372 (Leh (Ladakh), IN-JK, IN); labeled correct image: img-wolf-00"
   },
   {
     "postId": "p-wolf-3",
     "correctImageId": "img-wolf-06",
     "expectedSpecies": "gray wolf",
-    "note": "labeled correct image for \"Wolf or dog?\""
+    "note": "post describes iNaturalist observation 410781410 (Cook County, US-MN, US); labeled correct image: img-wolf-06"
   },
   {
     "postId": "p-dog-1",
-    "correctImageId": "img-dog-00",
+    "correctImageId": "img-dog-04",
     "expectedSpecies": "dog",
-    "note": "labeled correct image for \"Man's best friend\""
+    "note": "post describes iNaturalist observation 411180504 (La Ceja, Antioquia, CO); labeled correct image: img-dog-04"
   },
   {
     "postId": "p-dog-2",
-    "correctImageId": "img-dog-03",
+    "correctImageId": "img-dog-00",
     "expectedSpecies": "dog",
-    "note": "labeled correct image for \"Puppy development\""
+    "note": "post describes iNaturalist observation 411203504 (Viñedos el Álamo, Saltillo, Coah., México); labeled correct image: img-dog-00"
   },
   {
     "postId": "p-dog-3",
-    "correctImageId": "img-dog-06",
+    "correctImageId": "img-dog-01",
     "expectedSpecies": "dog",
-    "note": "labeled correct image for \"Working dogs\""
+    "note": "post describes iNaturalist observation 411196192 (Хохольский р-н, Воронежская обл., Россия); labeled correct image: img-dog-01"
   },
   {
     "postId": "p-bear-1",
-    "correctImageId": "img-bear-00",
-    "expectedSpecies": "bear",
-    "note": "labeled correct image for \"Bears and hibernation\""
+    "correctImageId": "img-bear-09",
+    "expectedSpecies": "brown bear",
+    "note": "post describes iNaturalist observation 410667707 (Anchorage County, US-AK, US); labeled correct image: img-bear-09"
   },
   {
     "postId": "p-bear-2",
-    "correctImageId": "img-bear-03",
-    "expectedSpecies": "bear",
-    "note": "labeled correct image for \"The brown bear's diet\""
+    "correctImageId": "img-bear-01",
+    "expectedSpecies": "brown bear",
+    "note": "post describes iNaturalist observation 410973669 (Hoonah-Angoon Census Area, Alaska, USA); labeled correct image: img-bear-01"
   },
   {
     "postId": "p-bear-3",
-    "correctImageId": "img-bear-06",
-    "expectedSpecies": "bear",
-    "note": "labeled correct image for \"Bears in folklore\""
+    "correctImageId": "img-bear-00",
+    "expectedSpecies": "brown bear",
+    "note": "post describes iNaturalist observation 411120667 (Teton County, US-WY, US); labeled correct image: img-bear-00"
   },
   {
     "postId": "p-deer-1",
     "correctImageId": "img-deer-00",
-    "expectedSpecies": "deer",
-    "note": "labeled correct image for \"Deer and their antlers\""
+    "expectedSpecies": "white-tailed deer",
+    "note": "post describes iNaturalist observation 411199924 (Crazy Grouse Lane, South Londonderry, VT, US); labeled correct image: img-deer-00"
   },
   {
     "postId": "p-deer-2",
-    "correctImageId": "img-deer-03",
-    "expectedSpecies": "deer",
-    "note": "labeled correct image for \"Graceful deer of the forest\""
+    "correctImageId": "img-deer-01",
+    "expectedSpecies": "white-tailed deer",
+    "note": "post describes iNaturalist observation 411198313 (E Cornwall Rd, Cary, NC, US); labeled correct image: img-deer-01"
   },
   {
     "postId": "p-deer-3",
-    "correctImageId": "img-deer-06",
-    "expectedSpecies": "deer",
-    "note": "labeled correct image for \"Cervidae around the world\""
+    "correctImageId": "img-deer-02",
+    "expectedSpecies": "white-tailed deer",
+    "note": "post describes iNaturalist observation 411198100 (Bristol, PA 19007, USA); labeled correct image: img-deer-02"
   }
 ]

@@ -13,7 +13,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Kaviya Vadivel, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis (Wolves and Dogs). Photo: (c) Kaviya Vadivel, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis — Canis. Location: P5HH+QQW, Udumalaippettai, Anikkadavu, Tamil Nadu 642120, India. Photo: (c) Kaviya Vadivel, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 502784,
@@ -24,7 +24,11 @@
         "taxonRank": "genus",
         "qualityGrade": "needs_id",
         "identifications": 1,
-        "ambiguous": true
+        "ambiguous": true,
+        "placeGuess": "P5HH+QQW, Udumalaippettai, Anikkadavu, Tamil Nadu 642120, India",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T15:53:24+05:30"
       }
     },
     {
@@ -37,7 +41,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Kaviya Vadivel, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis (Wolves and Dogs). Observer notes: Dogs Photo: (c) Kaviya Vadivel, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Observer notes: Dogs Taxon: Canis — Canis. Location: P5HH+QQW, Udumalaippettai, Anikkadavu, Tamil Nadu 642120, India. Photo: (c) Kaviya Vadivel, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 593404,
@@ -48,7 +52,11 @@
         "taxonRank": "genus",
         "qualityGrade": "needs_id",
         "identifications": 1,
-        "ambiguous": true
+        "ambiguous": true,
+        "placeGuess": "P5HH+QQW, Udumalaippettai, Anikkadavu, Tamil Nadu 642120, India",
+        "notes": "Dogs",
+        "tags": [],
+        "observedTime": "2026-10-27T15:44:26+05:30"
       }
     },
     {
@@ -61,7 +69,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) waritsara_hoonsuwan, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis (Wolves and Dogs). Photo: (c) waritsara_hoonsuwan, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis — Canis. Location: โรงเรียนพิบูลวิทยาลัย ลพบุรี, อ.เมืองลพบุรี, จ.ลพบุรี, TH. Photo: (c) waritsara_hoonsuwan, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 383661,
@@ -72,7 +80,11 @@
         "taxonRank": "genus",
         "qualityGrade": "needs_id",
         "identifications": 1,
-        "ambiguous": true
+        "ambiguous": true,
+        "placeGuess": "โรงเรียนพิบูลวิทยาลัย ลพบุรี, อ.เมืองลพบุรี, จ.ลพบุรี, TH",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-08-20T11:09:03+07:00"
       }
     },
     {
@@ -85,7 +97,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) chonpicha_chitsanguansuk, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis (Wolves and Dogs). Photo: (c) chonpicha_chitsanguansuk, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis — Canis. Location: หมู่ 7, อ.เมืองสิงห์บุรี, จ.สิงห์บุรี, TH. Photo: (c) chonpicha_chitsanguansuk, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 294327,
@@ -96,7 +108,11 @@
         "taxonRank": "genus",
         "qualityGrade": "needs_id",
         "identifications": 1,
-        "ambiguous": true
+        "ambiguous": true,
+        "placeGuess": "หมู่ 7, อ.เมืองสิงห์บุรี, จ.สิงห์บุรี, TH",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-26T18:21:35+07:00"
       }
     },
     {
@@ -109,7 +125,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) likahops, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis (Wolves and Dogs). Observer notes: It was eating ruffed grouse eggs Photo: (c) likahops, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Observer notes: It was eating ruffed grouse eggs Taxon: Canis — Canis. Location: Outaouais, QC, Canada. Photo: (c) likahops, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 169254,
@@ -120,7 +136,11 @@
         "taxonRank": "genus",
         "qualityGrade": "needs_id",
         "identifications": 4,
-        "ambiguous": true
+        "ambiguous": true,
+        "placeGuess": "Outaouais, QC, Canada",
+        "notes": "It was eating ruffed grouse eggs",
+        "tags": [],
+        "observedTime": "2018-05-28T11:52:00-04:00"
       }
     },
     {
@@ -133,7 +153,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) skreem, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis (Wolves and Dogs). Photo: (c) skreem, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis — Canis. Location: Division & Maria SB, Stevens Point, WI 54481, USA. Photo: (c) skreem, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 748759,
@@ -144,7 +164,11 @@
         "taxonRank": "genus",
         "qualityGrade": "needs_id",
         "identifications": 2,
-        "ambiguous": true
+        "ambiguous": true,
+        "placeGuess": "Division & Maria SB, Stevens Point, WI 54481, USA",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-26T09:17:42-05:00"
       }
     },
     {
@@ -157,7 +181,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Sidd, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Ursus arctos (Brown Bear). Photo: (c) Sidd, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Ursus arctos — Ursus arctos. Location: Teton County, US-WY, US. Photo: (c) Sidd, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 657715,
@@ -168,7 +192,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Teton County, US-WY, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2007-08-28T15:40:00-06:00"
       }
     },
     {
@@ -181,7 +209,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) vivekaocherik, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Ursus arctos (Brown Bear). Photo: (c) vivekaocherik, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Ursus arctos — Ursus arctos. Location: Hoonah-Angoon Census Area, Alaska, USA. Photo: (c) vivekaocherik, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 696736,
@@ -192,7 +220,17 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 5,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Hoonah-Angoon Census Area, Alaska, USA",
+        "notes": null,
+        "tags": [
+          "Inner passage",
+          "Pavlof Harbor",
+          "Stilla havet",
+          "usa",
+          "Alaska"
+        ],
+        "observedTime": "2026-09-09T11:45:00-08:00"
       }
     },
     {
@@ -205,7 +243,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) vivekaocherik, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Ursus arctos (Brown Bear). Photo: (c) vivekaocherik, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Ursus arctos — Ursus arctos. Location: Hoonah-Angoon Census Area, Alaska, USA. Photo: (c) vivekaocherik, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 696609,
@@ -216,7 +254,17 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Hoonah-Angoon Census Area, Alaska, USA",
+        "notes": null,
+        "tags": [
+          "Inner passage",
+          "Pavlof Harbor",
+          "Stilla havet",
+          "usa",
+          "Alaska"
+        ],
+        "observedTime": "2026-09-09T11:57:00-08:00"
       }
     },
     {
@@ -229,7 +277,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) vivekaocherik, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Ursus arctos (Brown Bear). Photo: (c) vivekaocherik, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Ursus arctos — Ursus arctos. Location: Hoonah-Angoon Census Area, Alaska, USA. Photo: (c) vivekaocherik, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 772395,
@@ -240,7 +288,17 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 4,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Hoonah-Angoon Census Area, Alaska, USA",
+        "notes": null,
+        "tags": [
+          "Inner passage",
+          "Pavlof Harbor",
+          "Stilla havet",
+          "usa",
+          "Alaska"
+        ],
+        "observedTime": "2026-09-09T11:45:00-08:00"
       }
     },
     {
@@ -253,7 +311,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) vfkowalski, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Ursus arctos (Brown Bear). Photo: (c) vfkowalski, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Ursus arctos — Ursus arctos. Location: AK, US. Photo: (c) vfkowalski, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 639758,
@@ -264,7 +322,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "AK, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2025-09-10T10:48:22-08:00"
       }
     },
     {
@@ -277,7 +339,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Olivia McWilliams, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Ursus arctos (Brown Bear). Photo: (c) Olivia McWilliams, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Ursus arctos — Ursus arctos. Location: AK, US. Photo: (c) Olivia McWilliams, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 813715,
@@ -288,7 +350,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "AK, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2023-07-04T12:02:17-08:00"
       }
     },
     {
@@ -301,7 +367,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) andrewm77, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Ursus arctos (Brown Bear). Photo: (c) andrewm77, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Ursus arctos — Ursus arctos. Location: Anchorage County, US-AK, US. Photo: (c) andrewm77, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 463022,
@@ -312,7 +378,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 4,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Anchorage County, US-AK, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-02T15:18:29-08:00"
       }
     },
     {
@@ -325,7 +395,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Taras, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Ursus arctos (Brown Bear). Photo: (c) Taras, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Ursus arctos — Ursus arctos. Location: Надвірнянський район, Івано-Франківська область, Україна. Photo: (c) Taras, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 866514,
@@ -336,7 +406,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Надвірнянський район, Івано-Франківська область, Україна",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-24T12:57:57+03:00"
       }
     },
     {
@@ -349,7 +423,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) andrewm77, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Ursus arctos (Brown Bear). Photo: (c) andrewm77, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Ursus arctos — Ursus arctos. Location: Anchorage County, US-AK, US. Photo: (c) andrewm77, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 472338,
@@ -360,7 +434,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Anchorage County, US-AK, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-01T15:27:47-08:00"
       }
     },
     {
@@ -373,7 +451,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) andrewm77, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Ursus arctos (Brown Bear). Observer notes: The brown bear mama\r\nAnd her three growing cubs cross\r\nThe creek on patrol Photo: (c) andrewm77, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Observer notes: The brown bear mama And her three growing cubs cross The creek on patrol Taxon: Ursus arctos — Ursus arctos. Location: Anchorage County, US-AK, US. Photo: (c) andrewm77, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 463245,
@@ -384,7 +462,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Anchorage County, US-AK, US",
+        "notes": "The brown bear mama And her three growing cubs cross The creek on patrol",
+        "tags": [],
+        "observedTime": "2026-09-30T13:39:04-08:00"
       }
     },
     {
@@ -397,7 +479,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Adrielle, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Odocoileus virginianus (White-tailed Deer). Photo: (c) Adrielle, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Odocoileus virginianus — Odocoileus virginianus. Location: Crazy Grouse Lane, South Londonderry, VT, US. Photo: (c) Adrielle, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 1235986,
@@ -408,7 +490,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Crazy Grouse Lane, South Londonderry, VT, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T13:07:58-04:00"
       }
     },
     {
@@ -421,7 +507,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) dsudhini, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Odocoileus virginianus (White-tailed Deer). Photo: (c) dsudhini, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Odocoileus virginianus — Odocoileus virginianus. Location: E Cornwall Rd, Cary, NC, US. Photo: (c) dsudhini, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 864761,
@@ -432,7 +518,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "E Cornwall Rd, Cary, NC, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2020-10-03T09:36:21-04:00"
       }
     },
     {
@@ -445,7 +535,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Arve Berthelsen, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Odocoileus virginianus (White-tailed Deer). Photo: (c) Arve Berthelsen, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Odocoileus virginianus — Odocoileus virginianus. Location: Bristol, PA 19007, USA. Photo: (c) Arve Berthelsen, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 859576,
@@ -456,7 +546,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Bristol, PA 19007, USA",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T12:41:02-04:00"
       }
     },
     {
@@ -469,7 +563,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) portofbaltimore, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Odocoileus virginianus (White-tailed Deer). Photo: (c) portofbaltimore, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Odocoileus virginianus — Odocoileus virginianus. Location: Masonville Cove, Baltimore, MD 21226, USA. Photo: (c) portofbaltimore, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 317700,
@@ -480,7 +574,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Masonville Cove, Baltimore, MD 21226, USA",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-13T08:15:00-04:00"
       }
     },
     {
@@ -493,7 +591,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) haileabennett, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Odocoileus virginianus (White-tailed Deer). Photo: (c) haileabennett, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Odocoileus virginianus — Odocoileus virginianus. Location: Caroline County, MD, USA. Photo: (c) haileabennett, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 183641,
@@ -504,7 +602,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Caroline County, MD, USA",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-10T12:42:00-04:00"
       }
     },
     {
@@ -517,7 +619,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Seneca County Parks Department, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Odocoileus virginianus (White-tailed Deer). Photo: (c) Seneca County Parks Department, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Odocoileus virginianus — Odocoileus virginianus. Location: E County Road 6, Tiffin, OH, US. Photo: (c) Seneca County Parks Department, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 1411257,
@@ -528,7 +630,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "E County Road 6, Tiffin, OH, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T09:33:55-04:00"
       }
     },
     {
@@ -541,7 +647,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Jenna Young, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Odocoileus virginianus (White-tailed Deer). Photo: (c) Jenna Young, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Odocoileus virginianus — Odocoileus virginianus. Location: Pennypack on the Delaware, Philadelphia, PA, USA. Photo: (c) Jenna Young, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 889275,
@@ -552,7 +658,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Pennypack on the Delaware, Philadelphia, PA, USA",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T11:31:00-04:00"
       }
     },
     {
@@ -565,7 +675,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Lucy Ellis, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Odocoileus virginianus (White-tailed Deer). Photo: (c) Lucy Ellis, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Odocoileus virginianus — Odocoileus virginianus. Location: Pritchard Ave, Chapel Hill, NC, US. Photo: (c) Lucy Ellis, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 1155991,
@@ -576,7 +686,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Pritchard Ave, Chapel Hill, NC, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-25T17:01:22-04:00"
       }
     },
     {
@@ -589,7 +703,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) anderson7713, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Odocoileus virginianus (White-tailed Deer). Photo: (c) anderson7713, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Odocoileus virginianus — Odocoileus virginianus. Location: Queensferry Rd, Cary, NC, US. Photo: (c) anderson7713, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 1511326,
@@ -600,7 +714,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Queensferry Rd, Cary, NC, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-05-26T08:21:30-04:00"
       }
     },
     {
@@ -613,7 +731,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) tsandor, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Odocoileus virginianus (White-tailed Deer). Photo: (c) tsandor, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Odocoileus virginianus — Odocoileus virginianus. Location: Horticulture Park Trails, West Lafayette, IN, US. Photo: (c) tsandor, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 1216262,
@@ -624,7 +742,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Horticulture Park Trails, West Lafayette, IN, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-14T18:52:56-04:00"
       }
     },
     {
@@ -637,7 +759,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) José Antonio Hernández Herrera, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis familiaris (Domestic Dog). Photo: (c) José Antonio Hernández Herrera, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis familiaris — Canis familiaris. Location: Viñedos el Álamo, Saltillo, Coah., México. Photo: (c) José Antonio Hernández Herrera, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 305047,
@@ -648,7 +770,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Viñedos el Álamo, Saltillo, Coah., México",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-25T08:22:00-06:00"
       }
     },
     {
@@ -661,7 +787,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Ольга Плотникова, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis familiaris (Domestic Dog). Photo: (c) Ольга Плотникова, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis familiaris — Canis familiaris. Location: Хохольский р-н, Воронежская обл., Россия. Photo: (c) Ольга Плотникова, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 407997,
@@ -672,7 +798,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Хохольский р-н, Воронежская обл., Россия",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-06-21T08:28:00+03:00"
       }
     },
     {
@@ -685,7 +815,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) gabrielga92, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis familiaris (Domestic Dog). Photo: (c) gabrielga92, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis familiaris — Canis familiaris. Location: San Jose de las Lajas, Cuba. Photo: (c) gabrielga92, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 383577,
@@ -696,7 +826,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "San Jose de las Lajas, Cuba",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2015-09-22T10:46:00-04:00"
       }
     },
     {
@@ -709,7 +843,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Julien Blasutto, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis familiaris (Domestic Dog). Photo: (c) Julien Blasutto, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis familiaris — Canis familiaris. Location: Les Monts-de-Pully, VD, CH. Photo: (c) Julien Blasutto, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 944794,
@@ -720,7 +854,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Les Monts-de-Pully, VD, CH",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T16:56:57+01:00"
       }
     },
     {
@@ -733,7 +871,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Juan Pablo Ramirez Otalvaro, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis familiaris (Domestic Dog). Observer notes: JN Photo: (c) Juan Pablo Ramirez Otalvaro, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Observer notes: JN Taxon: Canis familiaris — Canis familiaris. Location: La Ceja, Antioquia, CO. Photo: (c) Juan Pablo Ramirez Otalvaro, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 1114278,
@@ -744,7 +882,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "La Ceja, Antioquia, CO",
+        "notes": "JN",
+        "tags": [],
+        "observedTime": "2026-10-27T08:23:31-05:00"
       }
     },
     {
@@ -757,7 +899,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Ryan Lahiri, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis familiaris (Domestic Dog). Photo: (c) Ryan Lahiri, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis familiaris — Canis familiaris. Location: Bikkanahalli Main Road, Bengaluru, Karnataka, IN. Photo: (c) Ryan Lahiri, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 756832,
@@ -768,7 +910,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Bikkanahalli Main Road, Bengaluru, Karnataka, IN",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T20:03:12+05:30"
       }
     },
     {
@@ -781,7 +927,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Ольга Плотникова, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis familiaris (Domestic Dog). Photo: (c) Ольга Плотникова, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis familiaris — Canis familiaris. Location: Нижнедевицкий р-н, Воронежская обл., Россия. Photo: (c) Ольга Плотникова, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 378852,
@@ -792,7 +938,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Нижнедевицкий р-н, Воронежская обл., Россия",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T13:16:00+03:00"
       }
     },
     {
@@ -805,7 +955,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Ольга Плотникова, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis familiaris (Domestic Dog). Photo: (c) Ольга Плотникова, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis familiaris — Canis familiaris. Location: Нижнедевицкий р-н, Воронежская обл., Россия. Photo: (c) Ольга Плотникова, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 542491,
@@ -816,7 +966,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Нижнедевицкий р-н, Воронежская обл., Россия",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T10:51:00+03:00"
       }
     },
     {
@@ -829,7 +983,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Srinivas podili, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis familiaris (Domestic Dog). Photo: (c) Srinivas podili, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis familiaris — Canis familiaris. Location: Q8X3+C3W, Yamaganipalle, Andhra Pradesh 517426, India. Photo: (c) Srinivas podili, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 845576,
@@ -840,7 +994,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Q8X3+C3W, Yamaganipalle, Andhra Pradesh 517426, India",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T17:18:26+05:30"
       }
     },
     {
@@ -853,7 +1011,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Yasmin, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis familiaris (Domestic Dog). Photo: (c) Yasmin, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis familiaris — Canis familiaris. Location: João Alfredo - PE, Brasil. Photo: (c) Yasmin, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 491717,
@@ -864,7 +1022,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "João Alfredo - PE, Brasil",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T07:24:23-03:00"
       }
     },
     {
@@ -877,7 +1039,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Misty R, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Vulpes vulpes (Red Fox). Photo: (c) Misty R, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Vulpes vulpes — Vulpes vulpes. Location: Wellington Township, OH 44090, USA. Photo: (c) Misty R, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 848374,
@@ -888,7 +1050,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Wellington Township, OH 44090, USA",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T12:23:02-04:00"
       }
     },
     {
@@ -901,7 +1067,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) mordov01, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Vulpes vulpes (Red Fox). Photo: (c) mordov01, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Vulpes vulpes — Vulpes vulpes. Location: Iffley Road, Oxford, England, GB. Photo: (c) mordov01, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 470205,
@@ -912,7 +1078,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Iffley Road, Oxford, England, GB",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T14:54:33+00:00"
       }
     },
     {
@@ -925,7 +1095,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) rickichic66, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Vulpes vulpes (Red Fox). Photo: (c) rickichic66, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Vulpes vulpes — Vulpes vulpes. Location: Mount Pleasant, PA, US. Photo: (c) rickichic66, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 460636,
@@ -936,7 +1106,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Mount Pleasant, PA, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-21T10:49:46-04:00"
       }
     },
     {
@@ -949,7 +1123,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) pyta, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Vulpes vulpes (Red Fox). Photo: (c) pyta, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Vulpes vulpes — Vulpes vulpes. Location: Large Ave, Hillsdale, NJ, US. Photo: (c) pyta, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 72750,
@@ -960,7 +1134,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Large Ave, Hillsdale, NJ, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T08:47:29-04:00"
       }
     },
     {
@@ -973,7 +1151,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Alex Patten, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Vulpes vulpes (Red Fox). Photo: (c) Alex Patten, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Vulpes vulpes — Vulpes vulpes. Location: Baie-D'Urfe, QC, Canada. Photo: (c) Alex Patten, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 93163,
@@ -984,7 +1162,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Baie-D'Urfe, QC, Canada",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T07:54:00-04:00"
       }
     },
     {
@@ -997,7 +1179,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) jfmitch, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Vulpes vulpes (Red Fox). Photo: (c) jfmitch, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Vulpes vulpes — Vulpes vulpes. Location: Bowling Green, KY 42103, USA. Photo: (c) jfmitch, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 561836,
@@ -1008,7 +1190,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Bowling Green, KY 42103, USA",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-27T07:05:52-05:00"
       }
     },
     {
@@ -1021,7 +1207,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Vulpes vulpes (Red Fox). Photo: (c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Vulpes vulpes — Vulpes vulpes. Location: Nior Nis 194202. Photo: (c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 528213,
@@ -1032,7 +1218,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Nior Nis 194202",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2024-10-23T13:11:00+05:30"
       }
     },
     {
@@ -1045,7 +1235,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Alyson Hallowich, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Vulpes vulpes (Red Fox). Observer notes: Pretty bad mange Photo: (c) Alyson Hallowich, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Observer notes: Pretty bad mange Taxon: Vulpes vulpes — Vulpes vulpes. Location: Pinehurst Dr, Wilmington, DE, US. Photo: (c) Alyson Hallowich, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 852037,
@@ -1056,7 +1246,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Pinehurst Dr, Wilmington, DE, US",
+        "notes": "Pretty bad mange",
+        "tags": [],
+        "observedTime": "2026-10-27T08:15:11-04:00"
       }
     },
     {
@@ -1069,7 +1263,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) aleexnieves, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Vulpes vulpes (Red Fox). Photo: (c) aleexnieves, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Vulpes vulpes — Vulpes vulpes. Location: Granada, España. Photo: (c) aleexnieves, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 61337,
@@ -1080,7 +1274,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Granada, España",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-09T13:44:00+02:00"
       }
     },
     {
@@ -1093,7 +1291,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Дмитрий Шитиков, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Vulpes vulpes (Red Fox). Observer notes: Снято фотоловушкой у гнезда лугового чекана Photo: (c) Дмитрий Шитиков, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Observer notes: Снято фотоловушкой у гнезда лугового чекана Taxon: Vulpes vulpes — Vulpes vulpes. Location: Кирилловский р-н, Вологодская обл., Россия. Photo: (c) Дмитрий Шитиков, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 897153,
@@ -1104,7 +1302,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Кирилловский р-н, Вологодская обл., Россия",
+        "notes": "Снято фотоловушкой у гнезда лугового чекана",
+        "tags": [],
+        "observedTime": "2024-06-20T21:55:00+03:00"
       }
     },
     {
@@ -1117,7 +1319,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis lupus (Gray Wolf). Observer notes: ATTAQUE EN MEUTE AVEC DES JEUNES SUR UN CHIEN DE NOMADE Photo: (c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Observer notes: ATTAQUE EN MEUTE AVEC DES JEUNES SUR UN CHIEN DE NOMADE Taxon: Canis lupus — Canis lupus. Location: Leh (Ladakh), IN-JK, IN. Photo: (c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 274751,
@@ -1128,7 +1330,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Leh (Ladakh), IN-JK, IN",
+        "notes": "ATTAQUE EN MEUTE AVEC DES JEUNES SUR UN CHIEN DE NOMADE",
+        "tags": [],
+        "observedTime": "2024-10-25T12:28:00+05:30"
       }
     },
     {
@@ -1141,7 +1347,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis lupus (Gray Wolf). Observer notes: MEUTE HURLEMENTS Photo: (c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Observer notes: MEUTE HURLEMENTS Taxon: Canis lupus — Canis lupus. Location: Leh (Ladakh), IN-JK, IN. Photo: (c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 420190,
@@ -1152,7 +1358,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Leh (Ladakh), IN-JK, IN",
+        "notes": "MEUTE HURLEMENTS",
+        "tags": [],
+        "observedTime": "2024-10-25T03:21:00+05:30"
       }
     },
     {
@@ -1165,7 +1375,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis lupus (Gray Wolf). Observer notes: MEUTE HURLEMENTS Photo: (c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Observer notes: MEUTE HURLEMENTS Taxon: Canis lupus — Canis lupus. Location: Leh (Ladakh), IN-JK, IN. Photo: (c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 330244,
@@ -1176,7 +1386,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Leh (Ladakh), IN-JK, IN",
+        "notes": "MEUTE HURLEMENTS",
+        "tags": [],
+        "observedTime": "2024-10-25T03:01:00+05:30"
       }
     },
     {
@@ -1189,7 +1403,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis lupus (Gray Wolf). Observer notes:  UN INDIVIDU MORPHOLOGIE  NOIRE   GROUPE DE 5 LOUPS\r\nCHASSE EN MEUTE SUR UN TROUPEAU DE  YACK   PRES  DES NOMADES  Photo: (c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Observer notes: UN INDIVIDU MORPHOLOGIE NOIRE GROUPE DE 5 LOUPS CHASSE EN MEUTE SUR UN TROUPEAU DE YACK PRES DES NOMADES Taxon: Canis lupus — Canis lupus. Location: Leh (Ladakh), IN-JK, IN. Photo: (c) FABIENNE et PATRICK THIBAUT, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 357646,
@@ -1200,7 +1414,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Leh (Ladakh), IN-JK, IN",
+        "notes": "UN INDIVIDU MORPHOLOGIE NOIRE GROUPE DE 5 LOUPS CHASSE EN MEUTE SUR UN TROUPEAU DE YACK PRES DES NOMADES",
+        "tags": [],
+        "observedTime": "2024-10-25T03:44:00+05:30"
       }
     },
     {
@@ -1213,7 +1431,7 @@
       "license": "CC BY-NC-ND 4.0",
       "licenseCode": "cc-by-nc-nd",
       "artist": "(c) M. B., some rights reserved (CC BY-NC-ND)",
-      "description": "Taxon: Canis lupus (Gray Wolf). Observer notes: Location: Ankara, Türkiye\nElevation (m): \n\nNotes: \nObserved with <a href=\"https://www.inaturalist.org/projects/239910\">care</a>. During the observation period, no harm or disturbance was inflicted upon the observed organism. Observational measures were conducted with minimal disturbance to the surro Photo: (c) M. B., some rights reserved (CC BY-NC-ND) — CC BY-NC-ND 4.0.",
+      "description": "Observer notes: Location: Ankara, Türkiye Elevation (m): Notes: Observed with <a href=\"https://www.inaturalist.org/projects/239910\">care</a>. During the observation period, no harm or disturbance was inflicted upon the observed organism. Observational mea… Taxon: Canis lupus — Canis lupus. Location: Konya, TR. Photo: (c) M. B., some rights reserved (CC BY-NC-ND) — CC BY-NC-ND 4.0.",
       "width": null,
       "height": null,
       "bytes": 593931,
@@ -1224,7 +1442,20 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 5,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Konya, TR",
+        "notes": "Location: Ankara, Türkiye Elevation (m): Notes: Observed with <a href=\"https://www.inaturalist.org/projects/239910\">care</a>. During the observation period, no harm or disturbance was inflicted upon the observed organism. Observational mea…",
+        "tags": [
+          "Amatör Doğa Gözlemciliği",
+          "Türkiye",
+          "Türkiye Gözlemleri",
+          "Türkiye'deki Gözlemler",
+          "observed with care",
+          "Biodiversity of Türkiye",
+          "Vatandaşbilimi",
+          "citizen science"
+        ],
+        "observedTime": "2026-10-25T17:11:00+03:00"
       }
     },
     {
@@ -1237,7 +1468,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) zwongvan, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis lupus (Gray Wolf). Photo: (c) zwongvan, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis lupus — Canis lupus. Location: Teton County, US-WY, US. Photo: (c) zwongvan, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 1026515,
@@ -1248,7 +1479,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Teton County, US-WY, US",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-24T18:07:11-06:00"
       }
     },
     {
@@ -1261,7 +1496,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) jotto104, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis lupus (Gray Wolf). Observer notes: On a trail through a boreal forest Photo: (c) jotto104, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Observer notes: On a trail through a boreal forest Taxon: Canis lupus — Canis lupus. Location: Cook County, US-MN, US. Photo: (c) jotto104, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 513927,
@@ -1272,7 +1507,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 3,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Cook County, US-MN, US",
+        "notes": "On a trail through a boreal forest",
+        "tags": [],
+        "observedTime": "2026-10-21T12:05:00-05:00"
       }
     },
     {
@@ -1285,7 +1524,7 @@
       "license": "CC BY-NC-ND 4.0",
       "licenseCode": "cc-by-nc-nd",
       "artist": "(c) M.L. Watson, some rights reserved (CC BY-NC-ND)",
-      "description": "Taxon: Canis lupus (Gray Wolf). Observer notes: saw 13 of 15 wolves in Junction Butte Pack Photo: (c) M.L. Watson, some rights reserved (CC BY-NC-ND) — CC BY-NC-ND 4.0.",
+      "description": "Observer notes: saw 13 of 15 wolves in Junction Butte Pack Taxon: Canis lupus — Canis lupus. Location: United States. Photo: (c) M.L. Watson, some rights reserved (CC BY-NC-ND) — CC BY-NC-ND 4.0.",
       "width": null,
       "height": null,
       "bytes": 567528,
@@ -1296,7 +1535,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 5,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "United States",
+        "notes": "saw 13 of 15 wolves in Junction Butte Pack",
+        "tags": [],
+        "observedTime": "2026-10-17T19:33:00-06:00"
       }
     },
     {
@@ -1309,7 +1552,7 @@
       "license": "CC BY-NC-ND 4.0",
       "licenseCode": "cc-by-nc-nd",
       "artist": "(c) M.L. Watson, some rights reserved (CC BY-NC-ND)",
-      "description": "Taxon: Canis lupus (Gray Wolf). Photo: (c) M.L. Watson, some rights reserved (CC BY-NC-ND) — CC BY-NC-ND 4.0.",
+      "description": "Taxon: Canis lupus — Canis lupus. Location: United States. Photo: (c) M.L. Watson, some rights reserved (CC BY-NC-ND) — CC BY-NC-ND 4.0.",
       "width": null,
       "height": null,
       "bytes": 542357,
@@ -1320,7 +1563,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 5,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "United States",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2026-10-17T19:30:00-06:00"
       }
     },
     {
@@ -1333,7 +1580,7 @@
       "license": "CC BY-NC 4.0",
       "licenseCode": "cc-by-nc",
       "artist": "(c) Ziemix, some rights reserved (CC BY-NC)",
-      "description": "Taxon: Canis lupus (Gray Wolf). Photo: (c) Ziemix, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
+      "description": "Taxon: Canis lupus — Canis lupus. Location: Kłodzko, PL-DS, PL. Photo: (c) Ziemix, some rights reserved (CC BY-NC) — CC BY-NC 4.0.",
       "width": null,
       "height": null,
       "bytes": 840299,
@@ -1344,7 +1591,11 @@
         "taxonRank": "species",
         "qualityGrade": "research",
         "identifications": 2,
-        "ambiguous": false
+        "ambiguous": false,
+        "placeGuess": "Kłodzko, PL-DS, PL",
+        "notes": null,
+        "tags": [],
+        "observedTime": "2023-10-14T09:27:00+02:00"
       }
     }
   ],
@@ -1385,5 +1636,7 @@
       "scientific": "Canis (genus — species uncertain)",
       "count": 6
     }
-  ]
+  ],
+  "enrichedAt": "2026-10-27T18:28:26.472Z",
+  "enrichmentNote": "Per-observation detail (place_guess, description/observer notes, tags, observed_time) merged from the iNaturalist API by scripts/enrich-corpus.js. Used to make vision captions and eval posts photo-specific."
 }

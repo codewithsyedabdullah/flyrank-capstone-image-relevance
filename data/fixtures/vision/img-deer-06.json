@@ -5,9 +5,9 @@
     "wild",
     "hoofed",
     "herbivore",
-    "white"
+    "pack"
   ],
-  "caption": "A deer (Odocoileus virginianus) photographed in the wild.",
+  "caption": "A deer (Odocoileus virginianus) photographed in the wild in Pennypack on the Delaware, Philadelphia, PA, USA.",
   "confidence": 0.93,
   "_meta": {
     "provider": "fixture",
@@ -18,8 +18,11 @@
     "attribution": "(c) Jenna Young, some rights reserved (CC BY-NC)",
     "taxonName": "Odocoileus virginianus",
     "taxonRank": "species",
+    "placeGuess": "Pennypack on the Delaware, Philadelphia, PA, USA",
+    "hasObserverNotes": false,
+    "tags": [],
     "ambiguous": false,
-    "derivationRule": "subject/category/attributes/caption derived from iNaturalist research-grade taxon + attribution metadata; confidence: 0.38-0.55 if community ID is genus-level (genuinely ambiguous photo), 0.55-0.67 if the downloaded photo is small (<250KB, likely low resolution), 0.90-0.98 for species-level research-grade photos with metadata.",
-    "generatedAt": "2026-10-27T18:08:34.931Z"
+    "derivationRule": "subject/category/attributes/caption derived from the photo's own iNaturalist record: research-grade taxon, place_guess, observer notes, tags, and attribution. Caption is photo-specific (species + place + notes). confidence: 0.38-0.55 if community ID is genus-level (genuinely ambiguous photo), 0.55-0.67 if the downloaded photo is small (<250KB, likely low resolution), 0.90-0.98 for species-level research-grade photos.",
+    "generatedAt": "2026-10-27T18:29:39.431Z"
   }
 }

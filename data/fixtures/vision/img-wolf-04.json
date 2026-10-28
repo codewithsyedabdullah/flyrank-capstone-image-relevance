@@ -5,10 +5,9 @@
     "gray fur",
     "wild",
     "pack animal",
-    "urban",
-    "gray"
+    "urban"
   ],
-  "caption": "A gray wolf (Canis lupus) photographed in the wild.",
+  "caption": "A gray wolf (Canis lupus) photographed in the wild in Konya, TR. Location: Ankara, Türkiye Elevation (m): Notes: Observed with <a href=\"https://www.inaturalist.org/projects/239910\">care</a>. During the observation period, no harm or disturbance was inflicted upon the observed organism. Observational mea…",
   "confidence": 0.97,
   "_meta": {
     "provider": "fixture",
@@ -19,8 +18,20 @@
     "attribution": "(c) M. B., some rights reserved (CC BY-NC-ND)",
     "taxonName": "Canis lupus",
     "taxonRank": "species",
+    "placeGuess": "Konya, TR",
+    "hasObserverNotes": true,
+    "tags": [
+      "Amatör Doğa Gözlemciliği",
+      "Türkiye",
+      "Türkiye Gözlemleri",
+      "Türkiye'deki Gözlemler",
+      "observed with care",
+      "Biodiversity of Türkiye",
+      "Vatandaşbilimi",
+      "citizen science"
+    ],
     "ambiguous": false,
-    "derivationRule": "subject/category/attributes/caption derived from iNaturalist research-grade taxon + attribution metadata; confidence: 0.38-0.55 if community ID is genus-level (genuinely ambiguous photo), 0.55-0.67 if the downloaded photo is small (<250KB, likely low resolution), 0.90-0.98 for species-level research-grade photos with metadata.",
-    "generatedAt": "2026-10-27T18:08:34.992Z"
+    "derivationRule": "subject/category/attributes/caption derived from the photo's own iNaturalist record: research-grade taxon, place_guess, observer notes, tags, and attribution. Caption is photo-specific (species + place + notes). confidence: 0.38-0.55 if community ID is genus-level (genuinely ambiguous photo), 0.55-0.67 if the downloaded photo is small (<250KB, likely low resolution), 0.90-0.98 for species-level research-grade photos.",
+    "generatedAt": "2026-10-27T18:29:39.492Z"
   }
 }

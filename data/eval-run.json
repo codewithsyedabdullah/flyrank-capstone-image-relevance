@@ -1,0 +1,222 @@
+{
+  "dataset": "seeds/eval-set.json",
+  "embeddingModel": "all-minilm",
+  "visionProvider": "fixture",
+  "top1_precision": 1,
+  "correct": 15,
+  "total": 15,
+  "threshold": 0.538,
+  "band": [
+    0.3,
+    0.775
+  ],
+  "sweep": [
+    {
+      "threshold": 0.3,
+      "precision": 1
+    },
+    {
+      "threshold": 0.325,
+      "precision": 1
+    },
+    {
+      "threshold": 0.35,
+      "precision": 1
+    },
+    {
+      "threshold": 0.375,
+      "precision": 1
+    },
+    {
+      "threshold": 0.4,
+      "precision": 1
+    },
+    {
+      "threshold": 0.425,
+      "precision": 1
+    },
+    {
+      "threshold": 0.45,
+      "precision": 1
+    },
+    {
+      "threshold": 0.475,
+      "precision": 1
+    },
+    {
+      "threshold": 0.5,
+      "precision": 1
+    },
+    {
+      "threshold": 0.525,
+      "precision": 1
+    },
+    {
+      "threshold": 0.55,
+      "precision": 1
+    },
+    {
+      "threshold": 0.575,
+      "precision": 1
+    },
+    {
+      "threshold": 0.6,
+      "precision": 1
+    },
+    {
+      "threshold": 0.625,
+      "precision": 1
+    },
+    {
+      "threshold": 0.65,
+      "precision": 1
+    },
+    {
+      "threshold": 0.675,
+      "precision": 1
+    },
+    {
+      "threshold": 0.7,
+      "precision": 1
+    },
+    {
+      "threshold": 0.725,
+      "precision": 1
+    },
+    {
+      "threshold": 0.75,
+      "precision": 1
+    },
+    {
+      "threshold": 0.775,
+      "precision": 1
+    },
+    {
+      "threshold": 0.8,
+      "precision": 0.8666666666666667
+    }
+  ],
+  "per_post": [
+    {
+      "postId": "p-fox-1",
+      "expected": "img-red_fox-07",
+      "got": "img-red_fox-07",
+      "score": 0.8478,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-fox-2",
+      "expected": "img-red_fox-09",
+      "got": "img-red_fox-09",
+      "score": 0.8596,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-fox-3",
+      "expected": "img-red_fox-00",
+      "got": "img-red_fox-00",
+      "score": 0.8525,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-wolf-1",
+      "expected": "img-wolf-04",
+      "got": "img-wolf-04",
+      "score": 0.9326,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-wolf-2",
+      "expected": "img-wolf-00",
+      "got": "img-wolf-00",
+      "score": 0.8868,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-wolf-3",
+      "expected": "img-wolf-06",
+      "got": "img-wolf-06",
+      "score": 0.9275,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-dog-1",
+      "expected": "img-dog-04",
+      "got": "img-dog-04",
+      "score": 0.828,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-dog-2",
+      "expected": "img-dog-00",
+      "got": "img-dog-00",
+      "score": 0.8823,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-dog-3",
+      "expected": "img-dog-01",
+      "got": "img-dog-01",
+      "score": 0.8996,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-bear-1",
+      "expected": "img-bear-09",
+      "got": "img-bear-09",
+      "score": 0.8888,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-bear-2",
+      "expected": "img-bear-01",
+      "got": "img-bear-01",
+      "score": 0.8368,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-bear-3",
+      "expected": "img-bear-00",
+      "got": "img-bear-00",
+      "score": 0.8422,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-deer-1",
+      "expected": "img-deer-00",
+      "got": "img-deer-00",
+      "score": 0.8385,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-deer-2",
+      "expected": "img-deer-01",
+      "got": "img-deer-01",
+      "score": 0.7987,
+      "verdict": "match",
+      "ok": true
+    },
+    {
+      "postId": "p-deer-3",
+      "expected": "img-deer-02",
+      "got": "img-deer-02",
+      "score": 0.7953,
+      "verdict": "match",
+      "ok": true
+    }
+  ],
+  "generatedAt": "2026-10-28T07:18:57.822Z"
+}

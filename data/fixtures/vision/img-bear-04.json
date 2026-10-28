@@ -4,10 +4,9 @@
   "attributes": [
     "large",
     "wild",
-    "omnivore",
-    "brown"
+    "omnivore"
   ],
-  "caption": "A bear (Ursus arctos) photographed in the wild.",
+  "caption": "A bear (Ursus arctos) photographed in the wild in AK, US.",
   "confidence": 0.91,
   "_meta": {
     "provider": "fixture",
@@ -18,8 +17,11 @@
     "attribution": "(c) vfkowalski, some rights reserved (CC BY-NC)",
     "taxonName": "Ursus arctos",
     "taxonRank": "species",
+    "placeGuess": "AK, US",
+    "hasObserverNotes": false,
+    "tags": [],
     "ambiguous": false,
-    "derivationRule": "subject/category/attributes/caption derived from iNaturalist research-grade taxon + attribution metadata; confidence: 0.38-0.55 if community ID is genus-level (genuinely ambiguous photo), 0.55-0.67 if the downloaded photo is small (<250KB, likely low resolution), 0.90-0.98 for species-level research-grade photos with metadata.",
-    "generatedAt": "2026-10-27T18:08:34.910Z"
+    "derivationRule": "subject/category/attributes/caption derived from the photo's own iNaturalist record: research-grade taxon, place_guess, observer notes, tags, and attribution. Caption is photo-specific (species + place + notes). confidence: 0.38-0.55 if community ID is genus-level (genuinely ambiguous photo), 0.55-0.67 if the downloaded photo is small (<250KB, likely low resolution), 0.90-0.98 for species-level research-grade photos.",
+    "generatedAt": "2026-10-27T18:29:39.409Z"
   }
 }

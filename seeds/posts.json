@@ -1,107 +1,114 @@
 [
   {
     "id": "p-fox-1",
-    "title": "The red fox at dusk",
-    "body": "The red fox is a master of twilight hunting. With sharp hearing and pouncing leaps, a red fox can catch mice under deep snow. Its bushy tail balances each jump.",
+    "title": "Red fox near Pinehurst Dr",
+    "body": "A red fox (Vulpes vulpes) photographed in Pinehurst Dr, Wilmington, DE, US. Field notes from the observation: Pretty bad mange. Red foxes are the largest of the true foxes and live on every continent except Antarctica.",
     "categoryHint": "animal",
     "speciesHint": "red fox"
   },
   {
     "id": "p-fox-2",
-    "title": "Vulpes vulpes, up close",
-    "body": "Vulpes vulpes is the largest species of the genus Vulpes. Found across the Northern Hemisphere, this wild fox species adapts from forests to farmland.",
+    "title": "Red fox near Кирилловский р-н",
+    "body": "A red fox (Vulpes vulpes) photographed in Кирилловский р-н, Вологодская обл., Россия. Field notes from the observation: Снято фотоловушкой у гнезда лугового чекана. A red fox can hear a mouse move under a meter of snow and pounces in a high arc to catch it.",
     "categoryHint": "animal",
     "speciesHint": "red fox"
   },
   {
     "id": "p-fox-3",
-    "title": "Foxes in the city",
-    "body": "Urban foxes roam our suburbs at night. A wild red fox learns traffic patterns, raids bins, and raises cubs in quiet gardens.",
+    "title": "Red fox near Wellington Township",
+    "body": "A red fox (Vulpes vulpes) photographed in Wellington Township, OH 44090, USA. The observation record carries no extra notes — the photo speaks for itself. Fox kits are born blind in spring dens and emerge at about one month old.",
     "categoryHint": "animal",
     "speciesHint": "red fox"
   },
   {
     "id": "p-wolf-1",
-    "title": "Gray wolf packs",
-    "body": "The gray wolf, Canis lupus, lives in family packs led by an alpha pair. Howling binds the pack across miles of wilderness.",
+    "title": "Gray wolf near Konya",
+    "body": "A gray wolf (Canis lupus) photographed in Konya, TR. Field notes from the observation: Location: Ankara, Türkiye Elevation (m): Notes: Observed with <a href=\"https://www.inaturalist.org/projects/239910\">care</a>. During the observation period, no harm or disturbance was inflicted upon the observed organis…. Gray wolves live in family packs led by a breeding pair, and their howls can carry for miles.",
     "categoryHint": "animal",
     "speciesHint": "gray wolf"
   },
   {
     "id": "p-wolf-2",
-    "title": "Wolves of Yellowstone",
-    "body": "When wolves returned to Yellowstone, elk behavior changed, riverside willows recovered, and the whole ecosystem shifted. The grey wolf is a keystone predator.",
+    "title": "Gray wolf near Leh (Ladakh)",
+    "body": "A gray wolf (Canis lupus) photographed in Leh (Ladakh), IN-JK, IN. Field notes from the observation: ATTAQUE EN MEUTE AVEC DES JEUNES SUR UN CHIEN DE NOMADE. Wolves were reintroduced to Yellowstone in 1995, and elk herds changed their behavior within years.",
     "categoryHint": "animal",
     "speciesHint": "gray wolf"
   },
   {
     "id": "p-wolf-3",
-    "title": "Wolf or dog?",
-    "body": "Wolves and dogs share an ancestor, but a wild wolf hunts cooperatively and avoids human contact. A wolf's paws are larger than a dog's.",
+    "title": "Gray wolf near Cook County",
+    "body": "A gray wolf (Canis lupus) photographed in Cook County, US-MN, US. Field notes from the observation: On a trail through a boreal forest. A wolf's paws are larger than a domestic dog's, an adaptation for traveling snow.",
     "categoryHint": "animal",
     "speciesHint": "gray wolf"
   },
   {
     "id": "p-dog-1",
-    "title": "Man's best friend",
-    "body": "The domestic dog has lived beside humans for thousands of years. From herding to companionship, dogs read human gestures better than any other animal.",
+    "title": "Dog near La Ceja",
+    "body": "A dog (Canis familiaris) photographed in La Ceja, Antioquia, CO. Field notes from the observation: JN. Domestic dogs descended from wolves and were the first animals humans tamed.",
     "categoryHint": "animal",
     "speciesHint": "dog"
   },
   {
     "id": "p-dog-2",
-    "title": "Puppy development",
-    "body": "A puppy opens its eyes around two weeks old. Early socialization shapes a calm adult dog, and play builds coordination.",
+    "title": "Dog near Viñedos el Álamo",
+    "body": "A dog (Canis familiaris) photographed in Viñedos el Álamo, Saltillo, Coah., México. The observation record carries no extra notes — the photo speaks for itself. Dogs read human gestures like pointing better than any other species, including chimpanzees.",
     "categoryHint": "animal",
     "speciesHint": "dog"
   },
   {
     "id": "p-dog-3",
-    "title": "Working dogs",
-    "body": "Border collies herd sheep, labradors retrieve, and huskies pull sleds. Working dog breeds thrive with a job to do.",
+    "title": "Dog near Хохольский р-н",
+    "body": "A dog (Canis familiaris) photographed in Хохольский р-н, Воронежская обл., Россия. The observation record carries no extra notes — the photo speaks for itself. Puppies open their eyes at about two weeks, and early socialization shapes a calm adult.",
     "categoryHint": "animal",
     "speciesHint": "dog"
   },
   {
     "id": "p-bear-1",
-    "title": "Bears and hibernation",
-    "body": "In winter, a bear settles into its den. Heart rate drops, and the mother bear gives birth while sleeping through the cold months.",
+    "title": "Brown bear near Anchorage County",
+    "body": "A brown bear (Ursus arctos) photographed in Anchorage County, US-AK, US. Field notes from the observation: The brown bear mama And her three growing cubs cross The creek on patrol. Brown bears are omnivores that fatten on salmon, berries, and roots before winter dens.",
     "categoryHint": "animal",
-    "speciesHint": "bear"
+    "speciesHint": "brown bear"
   },
   {
     "id": "p-bear-2",
-    "title": "The brown bear's diet",
-    "body": "A brown bear eats berries, roots, salmon, and insects. Before winter, an adult bear may gain thousands of calories a day.",
+    "title": "Brown bear near Hoonah-Angoon Census Area",
+    "body": "A brown bear (Ursus arctos) photographed in Hoonah-Angoon Census Area, Alaska, USA. Recorded field tags: Inner passage, Pavlof Harbor, Stilla havet, usa, Alaska. A bear's heart rate drops sharply during winter sleep, and cubs are born while the mother dozes.",
     "categoryHint": "animal",
-    "speciesHint": "bear"
+    "speciesHint": "brown bear"
   },
   {
     "id": "p-bear-3",
-    "title": "Bears in folklore",
-    "body": "From forest spirits to storybook characters, the bear looms large in human folklore, and bear cubs playing in the woods remain a beloved image.",
+    "title": "Brown bear near Teton County",
+    "body": "A brown bear (Ursus arctos) photographed in Teton County, US-WY, US. The observation record carries no extra notes — the photo speaks for itself. Despite their size, brown bears can sprint at speeds over 30 miles per hour.",
     "categoryHint": "animal",
-    "speciesHint": "bear"
+    "speciesHint": "brown bear"
   },
   {
     "id": "p-deer-1",
-    "title": "Deer and their antlers",
-    "body": "Male deer grow antlers each spring and shed them in winter. During the rut, stags clash in the forest.",
+    "title": "White-tailed deer near Crazy Grouse Lane",
+    "body": "A white-tailed deer (Odocoileus virginianus) photographed in Crazy Grouse Lane, South Londonderry, VT, US. The observation record carries no extra notes — the photo speaks for itself. Male white-tailed deer grow and shed antlers each year, clashing during the autumn rut.",
     "categoryHint": "animal",
-    "speciesHint": "deer"
+    "speciesHint": "white-tailed deer"
   },
   {
     "id": "p-deer-2",
-    "title": "Graceful deer of the forest",
-    "body": "A deer freezes at the sound of a twig. Its ears swivel toward every rustle before it bounds away.",
+    "title": "White-tailed deer near E Cornwall Rd",
+    "body": "A white-tailed deer (Odocoileus virginianus) photographed in E Cornwall Rd, Cary, NC, US. The observation record carries no extra notes — the photo speaks for itself. A startled deer bounds away in explosive zigzags, and its white tail flags the danger to others.",
     "categoryHint": "animal",
-    "speciesHint": "deer"
+    "speciesHint": "white-tailed deer"
   },
   {
     "id": "p-deer-3",
-    "title": "Cervidae around the world",
-    "body": "The family Cervidae spans red deer, elk, and tiny muntjacs. Deer inhabit forests, grasslands, and mountains.",
+    "title": "White-tailed deer near Bristol",
+    "body": "A white-tailed deer (Odocoileus virginianus) photographed in Bristol, PA 19007, USA. The observation record carries no extra notes — the photo speaks for itself. Deer ears swivel independently toward every rustle in the underbrush.",
     "categoryHint": "animal",
-    "speciesHint": "deer"
+    "speciesHint": "white-tailed deer"
+  },
+  {
+    "id": "p-other-1",
+    "title": "Snow leopards of the high Himalaya",
+    "body": "The snow leopard stalks cliff faces above 3,000 meters, ghost-gray against the rock. Few big cats are so hard to photograph in the wild.",
+    "categoryHint": "animal",
+    "speciesHint": "snow leopard"
   }
 ]
